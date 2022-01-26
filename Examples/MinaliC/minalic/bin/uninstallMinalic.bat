@@ -1,0 +1,1 @@
+minalic.exe -uninstall

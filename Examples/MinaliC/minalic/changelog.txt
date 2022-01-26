@@ -1,0 +1,60 @@
+MinaliC 2.0.0 (2011-04-13)
+=======================================================================
+New release of stabil version.
+
+
+MinaliC 1.3.1 (2011-04-05)
+=======================================================================
+Improvements:
+Url_encoding of links in directory browsing.
+UTF-8 handling removed du to conflict with url_encodeing.
+
+
+MinaliC 1.3.0 (2011-03-31)
+=======================================================================
+Improvements:
+Can now handle URL:s in UTF-8
+
+
+MinaliC 1.2.2 (2011-03-20)
+=======================================================================
+Fixed Bugs:
+Fixed memory leak in response.c.
+
+Improvements:
+Added CGI vars SERVER_UP_TIME and SERVER_ROOT.
+Fixed better ensurance of unique session id generation.
+
+
+MinaliC 1.2.0 (2011-03-11)
+=======================================================================
+Fixed Bugs:
+Bugg on deleting old session id´s.
+
+
+MinaliC 1.1.1 (2011-03-03)
+=======================================================================
+Fixed Bugs
+Acceptor threads did not terminate correct on server shut down.
+
+
+MinaliC 1.1.0 (2011-03-02)
+=======================================================================
+Improvements
+Code changes to make it build with GNU MinGW
+
+Fixed Bugs
+Bugg on session id handling fixed
+
+
+MinaliC 1.0.1 (2010-11-01)
+=======================================================================
+Fixed Bugs
+Directory browsing security hole fixed
+
+
+MinaliC 1.0.0 (2010-08-21)
+=======================================================================
+Improvements
+Directory browsing
+ 

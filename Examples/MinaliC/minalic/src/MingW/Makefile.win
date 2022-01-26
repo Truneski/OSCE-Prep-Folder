@@ -1,0 +1,84 @@
+# Project: minalic
+# Compiler: Default GCC compiler
+# Compiler Type: MingW 3
+# Makefile created by wxDev-C++ 7.3 on 13-04-11 16:12
+
+CPP       = g++.exe
+CC        = gcc.exe
+WINDRES   = "windres.exe"
+OBJ       = Objects/MingW/acceptor.o Objects/MingW/acceptorplugin.o Objects/MingW/cgihandler.o Objects/MingW/cgiprocess.o Objects/MingW/clientcounter.o Objects/MingW/clienthandler.o Objects/MingW/clienthandlerplugin.o Objects/MingW/config.o Objects/MingW/directorybrowser.o Objects/MingW/logger.o Objects/MingW/main.o Objects/MingW/map.o Objects/MingW/request.o Objects/MingW/response.o Objects/MingW/sessionhandler.o Objects/MingW/thread.o Objects/MingW/memcounter.o Objects/MingW/minalic_private.res
+LINKOBJ   = "Objects/MingW/acceptor.o" "Objects/MingW/acceptorplugin.o" "Objects/MingW/cgihandler.o" "Objects/MingW/cgiprocess.o" "Objects/MingW/clientcounter.o" "Objects/MingW/clienthandler.o" "Objects/MingW/clienthandlerplugin.o" "Objects/MingW/config.o" "Objects/MingW/directorybrowser.o" "Objects/MingW/logger.o" "Objects/MingW/main.o" "Objects/MingW/map.o" "Objects/MingW/request.o" "Objects/MingW/response.o" "Objects/MingW/sessionhandler.o" "Objects/MingW/thread.o" "Objects/MingW/memcounter.o" Objects/MingW/minalic_private.res
+LIBS      = -L"C:/Program Files/Dev-Cpp/Lib" libwsock32.a  
+INCS      = -I"C:/Program Files/Dev-Cpp/Include"
+CXXINCS   = -I"C:/Program Files/Dev-Cpp/lib/gcc/mingw32/3.4.5/include" -I"C:/Program Files/Dev-Cpp/include/c++/3.4.5/backward" -I"C:/Program Files/Dev-Cpp/include/c++/3.4.5/mingw32" -I"C:/Program Files/Dev-Cpp/include/c++/3.4.5" -I"C:/Program Files/Dev-Cpp/include" -I"C:/Program Files/Dev-Cpp/"
+RCINCS    =
+BIN       = ../../bin/minalic.exe
+DEFINES   = 
+CXXFLAGS  = $(CXXINCS) $(DEFINES)  
+CFLAGS    = $(INCS) $(DEFINES)   
+GPROF     = gprof.exe
+RM        = rm -f
+LINK      = g++.exe
+
+.PHONY: all all-before all-after clean clean-custom
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	$(RM) $(LINKOBJ) "$(BIN)"
+
+$(BIN): $(OBJ)
+	$(LINK) $(LINKOBJ) -o "$(BIN)" $(LIBS) 
+
+Objects/MingW/acceptor.o: $(GLOBALDEPS) ../acceptor.c
+	$(CC) -c ../acceptor.c -o Objects/MingW/acceptor.o $(CFLAGS)
+
+Objects/MingW/acceptorplugin.o: $(GLOBALDEPS) ../acceptorplugin.c
+	$(CC) -c ../acceptorplugin.c -o Objects/MingW/acceptorplugin.o $(CFLAGS)
+
+Objects/MingW/cgihandler.o: $(GLOBALDEPS) ../cgihandler.c
+	$(CC) -c ../cgihandler.c -o Objects/MingW/cgihandler.o $(CFLAGS)
+
+Objects/MingW/cgiprocess.o: $(GLOBALDEPS) ../cgiprocess.c
+	$(CC) -c ../cgiprocess.c -o Objects/MingW/cgiprocess.o $(CFLAGS)
+
+Objects/MingW/clientcounter.o: $(GLOBALDEPS) ../clientcounter.c
+	$(CC) -c ../clientcounter.c -o Objects/MingW/clientcounter.o $(CFLAGS)
+
+Objects/MingW/clienthandler.o: $(GLOBALDEPS) ../clienthandler.c
+	$(CC) -c ../clienthandler.c -o Objects/MingW/clienthandler.o $(CFLAGS)
+
+Objects/MingW/clienthandlerplugin.o: $(GLOBALDEPS) ../clienthandlerplugin.c
+	$(CC) -c ../clienthandlerplugin.c -o Objects/MingW/clienthandlerplugin.o $(CFLAGS)
+
+Objects/MingW/config.o: $(GLOBALDEPS) ../config.c
+	$(CC) -c ../config.c -o Objects/MingW/config.o $(CFLAGS)
+
+Objects/MingW/directorybrowser.o: $(GLOBALDEPS) ../directorybrowser.c
+	$(CC) -c ../directorybrowser.c -o Objects/MingW/directorybrowser.o $(CFLAGS)
+
+Objects/MingW/logger.o: $(GLOBALDEPS) ../logger.c
+	$(CC) -c ../logger.c -o Objects/MingW/logger.o $(CFLAGS)
+
+Objects/MingW/main.o: $(GLOBALDEPS) ../main.c
+	$(CC) -c ../main.c -o Objects/MingW/main.o $(CFLAGS)
+
+Objects/MingW/map.o: $(GLOBALDEPS) ../map.c
+	$(CC) -c ../map.c -o Objects/MingW/map.o $(CFLAGS)
+
+Objects/MingW/request.o: $(GLOBALDEPS) ../request.c
+	$(CC) -c ../request.c -o Objects/MingW/request.o $(CFLAGS)
+
+Objects/MingW/response.o: $(GLOBALDEPS) ../response.c
+	$(CC) -c ../response.c -o Objects/MingW/response.o $(CFLAGS)
+
+Objects/MingW/sessionhandler.o: $(GLOBALDEPS) ../sessionhandler.c
+	$(CC) -c ../sessionhandler.c -o Objects/MingW/sessionhandler.o $(CFLAGS)
+
+Objects/MingW/thread.o: $(GLOBALDEPS) ../thread.c
+	$(CC) -c ../thread.c -o Objects/MingW/thread.o $(CFLAGS)
+
+Objects/MingW/memcounter.o: $(GLOBALDEPS) ../memcounter.c
+	$(CC) -c ../memcounter.c -o Objects/MingW/memcounter.o $(CFLAGS)
+
+Objects/MingW/minalic_private.res: Objects/MingW/minalic_private.rc 
+	$(WINDRES) --input-format=rc -o Objects/MingW/minalic_private.res $(RCINCS) Objects/MingW/MINALI~1.RC -O coff

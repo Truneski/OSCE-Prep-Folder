@@ -1,0 +1,8 @@
+This Blowfish encryption program was originally written by 
+Paul Kocher and released under GNU Lesser General Public License.
+Copyright (C) 1997 by Paul Kocher
+Read the commented text in blowfish.c and blowfish.h for more information.
+
+This is a modified version.
+blowfish.h was modified by Hong Jen Yee (PCMan) on 2005.03.31 to 
+enable the program being built into a dll and linked with other program.
